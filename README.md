@@ -48,7 +48,10 @@ Search term used: `"paracetamol adverse events"`
 | 1              | ["nausea", "liver damage"] |
 | 2              | ["dizziness", "rash"]     |
 
----
+## 📈 AE Frequency Plot
+
+![AE Chart](ae_chart.png)
+
 
 ## 📈 AE Frequency Chart
 
