@@ -55,7 +55,7 @@ Search term used: `"paracetamol adverse events"`
 
 ## 📈 AE Frequency Chart
 
-*(Insert screenshot of output plot here)*
+ae_chart.png.png
 
 ---
 
